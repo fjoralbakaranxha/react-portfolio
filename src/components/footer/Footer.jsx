@@ -1,7 +1,7 @@
 import React from 'react'
 import "./footer.css";
-import {BsLinkedin} from "react-icons/bs";
-import {BsGithub} from "react-icons/bs";
+import {AiOutlineInstagram} from "react-icons/ai";
+import {SiFacebook} from "react-icons/si";
 
 const Footer = () => {
   return (
@@ -17,10 +17,12 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-      <a href='https://www.linkedin.com/in/fjoralba-karanxha-9283a2224/' target="__blank"><BsLinkedin className='footer__logo'/></a>
-    <a href='https://github.com/fjoralbakaranxha' target="__blank"><BsGithub className='footer__logo'/></a>
+      <a href='https://www.instagram.com/fjoralbakaranxha/' target="__blank"><AiOutlineInstagram className='footer__icon' /></a>
+    <a href='https://www.facebook.com/profile.php?id=100008449209477' target="__blank"><SiFacebook className='footer__icon' /></a>
       </div>
-      <small className='footer__copyright'>Copyright 2022</small>
+      <div className='footer__copyright'>
+      <small> © 2022 All rights reserved.</small>
+      </div>
     </footer>
   )
 }
