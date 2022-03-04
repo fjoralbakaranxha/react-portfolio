@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9b6419ff.css",
-    "main.js": "/react-gh-pages/static/js/main.02ad6cdc.js",
-    "static/media/fjori1.jpeg": "/react-gh-pages/static/media/fjori1.1dff9bc8f98d5205a48e.jpeg",
-    "static/media/fjori.jpeg": "/react-gh-pages/static/media/fjori.c0c24bda96e04acfc76d.jpeg",
-    "static/media/p3.jpg": "/react-gh-pages/static/media/p3.a8b8831b7aa225c25d0d.jpg",
-    "static/media/CV.pdf": "/react-gh-pages/static/media/CV.f889d7d4cf401c5dd2d1.pdf",
-    "static/media/p2.jpg": "/react-gh-pages/static/media/p2.e1c43d91ee5fdc11e720.jpg",
-    "static/media/p1.jpg": "/react-gh-pages/static/media/p1.103b9e05046b0db83ccc.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9b6419ff.css.map": "/react-gh-pages/static/css/main.9b6419ff.css.map",
-    "main.02ad6cdc.js.map": "/react-gh-pages/static/js/main.02ad6cdc.js.map"
+    "main.css": "/react-portfolio/static/css/main.75eb1c83.css",
+    "main.js": "/react-portfolio/static/js/main.071eb139.js",
+    "static/media/fjori1.jpeg": "/react-portfolio/static/media/fjori1.1dff9bc8f98d5205a48e.jpeg",
+    "static/media/fjori.jpeg": "/react-portfolio/static/media/fjori.38363c980d191822a9f6.jpeg",
+    "static/media/p3.jpg": "/react-portfolio/static/media/p3.a8b8831b7aa225c25d0d.jpg",
+    "static/media/CV.pdf": "/react-portfolio/static/media/CV.f889d7d4cf401c5dd2d1.pdf",
+    "static/media/p2.jpg": "/react-portfolio/static/media/p2.e1c43d91ee5fdc11e720.jpg",
+    "static/media/p1.jpg": "/react-portfolio/static/media/p1.103b9e05046b0db83ccc.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.75eb1c83.css.map": "/react-portfolio/static/css/main.75eb1c83.css.map",
+    "main.071eb139.js.map": "/react-portfolio/static/js/main.071eb139.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b6419ff.css",
-    "static/js/main.02ad6cdc.js"
+    "static/css/main.75eb1c83.css",
+    "static/js/main.071eb139.js"
   ]
 }
