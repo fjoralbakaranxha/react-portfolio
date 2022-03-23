@@ -1,16 +1,16 @@
 import React from 'react'
 import "./portfolio.css";
-import p1 from "../../assets/p1.jpg";
 import p2 from "../../assets/p2.jpg";
 import p3 from "../../assets/p3.jpg";
+import sc1 from "../../assets/sc1.png";
 
 
 const data = [
   {
     id: 1,
-    image: p1,
-    title: "Title 1",
-    github:"https://github.com/",
+    image: sc1,
+    title: "Login-page",
+    github:"https://fjoralbakaranxha.github.io/login-page/",
     demo: "https://dribbble.com/"
   },
   {
