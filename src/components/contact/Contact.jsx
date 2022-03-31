@@ -30,14 +30,14 @@ const sendEmail = (e) => {
         <MdEmail className='contact__option-icon' />
         <h4>Email</h4>
         <h5>fjoralbakaranxha@gmail.com</h5>
-        <a href='mailto:fjoralbakaranxha@gmail.com' target="_blank">Send a message</a>
+        <a href='mailto:fjoralbakaranxha@gmail.com' target="_blank" rel="noreferrer">Send a message</a>
         </article>
 
         <article className='contact__option'>
         <BsWhatsapp className='contact__option-icon' />
         <h4>WhatsApp</h4>
         <h5>+355693105397</h5>
-        <a href="https://api.whatsapp.com/send?phone=+355693105397" target="_blank">Send a message</a>
+        <a href="https://api.whatsapp.com/send?phone=+355693105397" target="_blank" rel="noreferrer">Send a message</a>
         </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
