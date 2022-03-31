@@ -17,8 +17,8 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-      <a href='https://www.instagram.com/fjoralbakaranxha/' target="__blank" rel="noreferrer"><AiOutlineInstagram className='footer__icon' /></a>
-    <a href='https://www.facebook.com/profile.php?id=100008449209477' target="__blank" rel="noreferrer"><SiFacebook className='footer__icon' /></a>
+      <a href='https://www.instagram.com/fjoralbakaranxha/' target="__blank" ><AiOutlineInstagram className='footer__icon' /></a>
+    <a href='https://www.facebook.com/profile.php?id=100008449209477' target="__blank"><SiFacebook className='footer__icon' /></a>
       </div>
       <div className='footer__copyright'>
       <small> © 2022 All rights reserved.</small>
