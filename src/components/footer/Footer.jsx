@@ -6,9 +6,9 @@ import {SiFacebook} from "react-icons/si";
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>Fjoralba Karanxha</a>
+      <a href='/#' className='footer__logo'>Fjoralba Karanxha</a>
       <ul className='permalinks'>
-      <li><a href='#'>Home</a></li>
+      <li><a href='/#'>Home</a></li>
       <li><a href='#about'>About</a></li>
       <li><a href='#experiences'>Experiences</a></li>
       <li><a href='#services'>Services</a></li>
