@@ -2,20 +2,21 @@ import React from 'react'
 import "./portfolio.css";
 import p2 from "../../assets/p2.jpg";
 import p3 from "../../assets/p3.jpg";
-
+import w1 from "../../assets/w1.jpeg";
+import w2 from "../../assets/w2.jpeg";
 
 
 const data = [
   {
     id: 1,
-    image: p2,
+    image: w1,
     title: "Title 1",
     github:"https://github.com/",
     demo: "https://dribbble.com/"
   },
   {
     id: 2,
-    image: p2,
+    image: w2,
     title: "Title 2",
     github:"https://github.com/",
     demo: "https://dribbble.com/"
