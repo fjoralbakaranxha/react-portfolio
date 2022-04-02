@@ -1,32 +1,32 @@
 import React from 'react'
 import "./portfolio.css";
-import p2 from "../../assets/p2.jpg";
-import p3 from "../../assets/p3.jpg";
 import w1 from "../../assets/w1.jpeg";
 import w2 from "../../assets/w2.jpeg";
+import p3 from "../../assets/p3.jpg";
+
 
 
 const data = [
   {
     id: 1,
     image: w1,
-    title: "Title 1",
-    github:"https://github.com/",
-    demo: "https://dribbble.com/"
+    title: "Node Passport Login",
+    github:"https://github.com/fjoralbakaranxha/node_passport_login",
+    demo: "https://node-passport-fjori.herokuapp.com/"
   },
   {
     id: 2,
     image: w2,
-    title: "Title 2",
-    github:"https://github.com/",
-    demo: "https://dribbble.com/"
+    title: "Blog Post",
+    github:"https://github.com/fjoralbakaranxha/blog",
+    demo: "https://blogpost-f.herokuapp.com/"
   },
   {
     id: 3,
     image: p3,
-    title: "Title 3",
-    github:"https://github.com/",
-    demo: "https://dribbble.com/"
+    title: "To Do List ",
+    github:"https://github.com/fjoralbakaranxha/todolist-v1",
+    demo: ""
   }
 ]
 
