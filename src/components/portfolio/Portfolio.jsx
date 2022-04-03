@@ -2,7 +2,7 @@ import React from 'react'
 import "./portfolio.css";
 import w1 from "../../assets/w1.jpeg";
 import w2 from "../../assets/w2.jpeg";
-import p3 from "../../assets/p3.jpg";
+import p3 from "../../assets/logo.png";
 
 
 
