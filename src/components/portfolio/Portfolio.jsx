@@ -26,7 +26,7 @@ const data = [
     image: p3,
     title: "To Do List ",
     github:"https://github.com/fjoralbakaranxha/todolist-v1",
-    demo: ""
+    demo: "https://fjori-todolist.herokuapp.com/"
   }
 ]
 
